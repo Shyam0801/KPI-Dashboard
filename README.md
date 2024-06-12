@@ -6,7 +6,7 @@
 
 ### DAX Measures
 - Created measures for Total Sales Actual, Total Sales Targets, Variance, and Variance Percentage.
-- Used complex calculations to generate Year-To-Date (YTD) figures and the title for trends chart.
+- Used complex calculations to generate Year-To-Date (YTD) figures (made use of the new card visual by adding this measure as a Reference Label) and the title for trends chart.
 
 ### Interactive Visuals
 - Implemented dynamic bar charts and sparklines to visualize sales performance over 14 months.
@@ -32,6 +32,10 @@
 
 ## Dashboard
 ![image](https://github.com/Shyam0801/KPI-Dashboard/assets/72892303/b49b1ffd-1a0f-4bb0-9822-d393b32cd860)
+
+## Tool Used
+- I used Microsoft Power BI to build this Dasboard
+- You can download the Dashboard Here - [Dashboard](https://github.com/Shyam0801/KPI-Dashboard/blob/main/Sales_KPI_Dashboard.pbix)
 
 ## Acknowledgement
 - Link to the Dataset Here - [Dataset](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtRcTFZOHFBTEVMUXJjSjF5OUNlZ1psWmYwUXxBQ3Jtc0ttQVhJcGVQV2ZscXRCM3AyMXl3RVlxOHh0WjBTV0hnTGxfN0hXdzBPRHFSQWZOSDBoVVFIOXZZZjBoNlhKY1drUllfdWVUSFdxbERyRzVhXzdIYnJfRkhvSjZoM3dlMXAyUFlJNkVfSnlOaHJLNUdaVQ&q=https%3A%2F%2Fchandoo.org%2Fwp%2Fwp-content%2Fuploads%2F2024%2F04%2Factual-vs-target-dataset.xlsx&v=i3AR0gt9SHA)
